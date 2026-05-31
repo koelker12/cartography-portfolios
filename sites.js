@@ -1,4 +1,4 @@
-﻿// Generated from bookmarks.html Map Blogs section
+﻿// List of portfolio pages with name, url, and status. Only pages with 'active' status will appear. Use 'inactive' to hide websites that are down or perhaps no longer maintained.
 const sites = [
   {'name': 'Aaron Koelker', 'url': 'https://aaronkoelker.com/', 'status': 'active'},
   {'name': 'Aaron Taveras', 'url': 'https://www.cartografix.co/', 'status': 'active'},
@@ -211,4 +211,3 @@ const sites = [
   {'name': 'Yuri Gordon', 'url': 'https://yurigordon.com/en/gallery/karty', 'status': 'active'},
   {'name': 'Zachary Ammerman', 'url': 'https://zammerman.myportfolio.com/work', 'status': 'active'},
 ];
-
