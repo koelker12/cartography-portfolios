@@ -137,6 +137,7 @@ const sites = [
   {'name': 'Map Guy', 'url': 'https://themapguy.net/', 'status': 'active'},
   {'name': 'Marco Hernandez', 'url': 'https://mhinfographics.github.io/maps', 'status': 'active'},
   {'name': 'Margot Dale Carpenter', 'url': 'http://www.hartdalemaps.com/', 'status': 'active'},
+  {'name': 'Marine Le Breton', 'url': 'https://lescartesmarines.fr/10-boutique', 'status': 'active'},
   {'name': 'Marion Laplane', 'url': 'https://ml-illustrations.com/portfolio/', 'status': 'active'},
   {'name': 'Martin Elmer', 'url': 'https://maphugger.com/', 'status': 'inactive'},
   {'name': 'Matthew Dean Shaffer', 'url': 'https://www.matthewdeanshaffer.com/maps', 'status': 'active'},
