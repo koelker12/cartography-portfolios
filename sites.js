@@ -21,6 +21,7 @@ const sites = [
   {'name': 'Anna Eshelman', 'url': 'https://www.annaeshelman.com/maps', 'status': 'active'},
   {'name': 'Anna Riling', 'url': 'https://www.fourcornersmapping.com/', 'status': 'active'},
   {'name': 'Anton Thomas', 'url': 'https://www.antonthomasart.com/', 'status': 'active'},
+  {'name': 'Ariel Dome', 'url': 'https://ayingthemapmaker.carrd.co/', 'status': 'active'},
   {'name': 'Atlas Guo', 'url': 'https://cartoguophy.com/portfolio.html', 'status': 'active'},
   {'name': 'Aurélien Boyer-Moraes', 'url': 'https://transit-map.com/', 'status': 'active'},
   {'name': 'Austin Beck', 'url': 'https://austinbeck-geo.com/', 'status': 'inactive'},
