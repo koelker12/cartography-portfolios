@@ -78,6 +78,7 @@ const sites = [
   {'name': 'Gernot Nikolaus', 'url': 'https://gernotnikolaus.github.io/gallery', 'status': 'active'},
   {'name': 'Ginny Mason', 'url': 'https://ginnymason.com/', 'status': 'active'},
   {'name': 'Grant Preller', 'url': 'https://www.instagram.com/bomboramaps/', 'status': 'active'},
+  {'name': 'Greg LeFevre', 'url': 'https://www.gregglefevre.com/projects', 'status': 'active'},
   {'name': 'Gregor Turk', 'url': 'https://gregorturk.com/', 'status': 'active'},
   {'name': 'Guy Hastings', 'url': 'https://www.guyssurfarimaps.com/', 'status': 'active'},
   {'name': 'Hannah Dormido', 'url': 'https://hannahdormido.com/work/', 'status': 'active'},
