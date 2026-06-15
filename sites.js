@@ -211,7 +211,7 @@ const sites = [
   {'name': 'Vanessa Knoppke-Wetzel', 'url': 'https://vknoppkewetzel.github.io/', 'status': 'active'},
   {'name': 'Verena Klasen', 'url': 'https://verenaklasen.de/', 'status': 'active'},
   {'name': 'Vicky Johnson-Dahl', 'url': 'https://vickyjohnsondahl.com/', 'status': 'active'},
-  {'name': 'Warren Davison Maps', 'url': 'https://warrenrdavison.wixsite.com/maps/projects', 'status': 'active'},
+  {'name': 'Warren Davison', 'url': 'https://warrenrdavison.wixsite.com/maps/projects', 'status': 'active'},
   {'name': 'Wes Jones', 'url': 'https://whatthejones.com/freelance-portfolio-work/', 'status': 'active'},
   {'name': 'Yuri Gordon', 'url': 'https://yurigordon.com/en/gallery/karty', 'status': 'active'},
   {'name': 'Zachary Ammerman', 'url': 'https://zammerman.myportfolio.com/work', 'status': 'active'},
