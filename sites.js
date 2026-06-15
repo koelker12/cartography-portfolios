@@ -28,6 +28,7 @@ const sites = [
   {'name': 'Ayeisha Sheldon', 'url': 'https://www.ayeishasheldon.com/cartography', 'status': 'active'},
   {'name': 'Bad Hoss Maps', 'url': 'https://www.badhossmaps.com/shop', 'status': 'active'},
   {'name': 'Bella Mironova', 'url': 'https://bella-mir.com/#/projects', 'status': 'active'},
+  {'name': 'Benjamin Niedermann', 'url': 'https://visquill.com/gallery', 'status': 'active'},
   {'name': 'Bob Johnson', 'url': 'https://vinethos.com/bob-johnson-vineyard-maps/', 'status': 'active'},
   {'name': 'Camila Narbaitz Sarsur', 'url': 'https://www.cnscartography.com/my-work.html', 'status': 'active'},
   {'name': 'Capucine Defretin', 'url': 'https://www.capucine-illustrationsarchitecture.fr/', 'status': 'active'},
