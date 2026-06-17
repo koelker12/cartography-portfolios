@@ -112,6 +112,7 @@ const sites = [
   {'name': 'Jess Baker', 'url': 'https://www.jessbakermapping.com/my-work', 'status': 'active'},
   {'name': 'Joe Milbrath', 'url': 'https://www.joemilbrath.com/', 'status': 'active'},
   {'name': 'John Nelson', 'url': 'https://adventuresinmapping.com/', 'status': 'active'},
+  {'name': 'Joseph Veazey', 'url': 'https://veazeystudio.com/', 'status': 'active'},
   {'name': 'Joshua Stevens', 'url': 'https://www.joshuastevens.net/portfolio/', 'status': 'active'},
   {'name': 'Josie Sajbel', 'url': 'https://sajbelcart.github.io/', 'status': 'active'},
   {'name': 'Juan Francisco Saldarriaga', 'url': 'https://juanfrans.com/', 'status': 'active'},
