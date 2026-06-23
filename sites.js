@@ -1,4 +1,4 @@
-﻿// List of portfolio pages with name, url, and status. Only pages with 'active' status will appear. Use 'inactive' to hide websites that are down or perhaps no longer maintained.
+﻿// List of portfolio pages with name, url, and status. Only pages with 'active' status will appear. Using 'inactive' to hide websites that are perhaps down or no longer maintained.
 const sites = [
   {'name': 'Aaron Koelker', 'url': 'https://aaronkoelker.com/', 'status': 'active'},
   {'name': 'Aaron Taveras', 'url': 'https://www.cartografix.co/', 'status': 'active'},
