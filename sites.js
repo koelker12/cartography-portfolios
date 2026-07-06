@@ -111,6 +111,7 @@ const sites = [
   {'name': 'Jeremy Collins', 'url': 'https://jercollins.com/all-products', 'status': 'active'},
   {'name': 'Jess Baker', 'url': 'https://www.jessbakermapping.com/my-work', 'status': 'active'},
   {'name': 'Joe Milbrath', 'url': 'https://www.joemilbrath.com/', 'status': 'active'},
+  {'name': 'Joel Conti', 'url': 'https://conticartography.net/', 'status': 'active'},
   {'name': 'John Nelson', 'url': 'https://adventuresinmapping.com/', 'status': 'active'},
   {'name': 'Joseph Veazey', 'url': 'https://veazeystudio.com/', 'status': 'active'},
   {'name': 'Joshua Stevens', 'url': 'https://www.joshuastevens.net/portfolio/', 'status': 'active'},
