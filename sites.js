@@ -151,6 +151,7 @@ const sites = [
   {'name': 'Mengyu Liang', 'url': 'https://mliang8.github.io/portfolio.html', 'status': 'active'},
   {'name': 'Michael Horner', 'url': 'https://www.cartisticendeavors.com/gallery', 'status': 'active'},
   {'name': 'Michael Karpovage', 'url': 'https://www.karpovagecreative.com/', 'status': 'active'},
+  {'name': 'Michael McNeil', 'url': 'https://rmichaelmcneil.com/', 'status': 'active'},
   {'name': 'Michael Reagan', 'url': 'https://www.mreaganstudio.com/services-5', 'status': 'active'},
   {'name': 'Michelle Snyder', 'url': 'https://www.quaillanepress.com/', 'status': 'active'},
   {'name': 'Micmap', 'url': 'https://www.micmap.fr/en/works/', 'status': 'active'},
