@@ -140,6 +140,7 @@ const sites = [
   {'name': 'Kevin Sheehan', 'url': 'https://www.manuscriptmaps.com/products', 'status': 'active'},
   {'name': 'Kirby Salvador', 'url': 'http://www.kirbysalvador.com/', 'status': 'active'},
   {'name': 'Kirsten Sparenborg', 'url': 'https://turnofthecenturies.com/', 'status': 'active'},
+  {'name': 'Krishna Wijaya', 'url': 'https://anhsirkwijaya.github.io/spatiality/gallery.html', 'status': 'active'},
   {'name': 'Lana Bragin', 'url': 'https://www.ulani.de/', 'status': 'active'},
   {'name': 'Lara Lou', 'url': 'https://www.laura-lou.com', 'status': 'active'},
   {'name': 'Last Maps', 'url': 'https://www.lastmaps.com/maps', 'status': 'active'},
