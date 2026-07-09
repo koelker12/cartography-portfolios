@@ -183,6 +183,7 @@ const sites = [
   {'name': 'Neil Gower', 'url': 'https://www.neilgower.com/Le-Manoir-Garden-Art', 'status': 'active'},
   {'name': 'Nelson Schäfer', 'url': 'https://nellomaps.com/', 'status': 'active'},
   {'name': 'Nich Bauch', 'url': 'https://www.geographystudio.org/productions', 'status': 'active'},
+  {'name': 'Nicole Pepper', 'url': 'https://nicolelpepper.github.io/PepperPortfolio/Cartography.html', 'status': 'active'},
   {'name': 'Nikita Slavin', 'url': 'https://kontikimaps.com', 'status': 'active'},
   {'name': 'Norwood Viviano', 'url': 'https://www.norwoodviviano.com/', 'status': 'active'},
   {'name': 'Oana Candit', 'url': 'https://oanacanditmaps.ro/portfolio/', 'status': 'active'},
