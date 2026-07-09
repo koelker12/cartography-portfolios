@@ -4,7 +4,7 @@ https://koelker12.github.io/cartography-portfolios/
 
 *What this site is*: A resource for cartographers to quickly find inspiration among peers.
 
-*What this site is not*: An endorsement (or snub) of any individual or their work, nor is it intended to generate clients or sales (though some store pages may be linked directly where an individual has no equivalent portfolio).
+*What this site is not*: An endorsement (or snub) of any individual or their work, nor is it intended to generate clients or sales (though some storefronts may be linked directly where an individual has no equivalent portfolio).
 
 Want to add/edit/remove? Reach out to koelker12 @ the email service provided by Google
 
