@@ -33,6 +33,7 @@ const sites = [
   {'name': 'Benjamin Niedermann', 'url': 'https://visquill.com/gallery', 'status': 'active'},
   {'name': 'Bob Johnson', 'url': 'https://vinethos.com/bob-johnson-vineyard-maps/', 'status': 'active'},
   {'name': 'Camila Narbaitz Sarsur', 'url': 'https://www.cnscartography.com/my-work.html', 'status': 'active'},
+  {'name': 'Camille Bressange', 'url': 'https://cybcartographie.wordpress.com/', 'status': 'active'},
   {'name': 'Capucine Defretin', 'url': 'https://www.capucine-illustrationsarchitecture.fr/', 'status': 'active'},
   {'name': 'Carl Churchill', 'url': 'http://www.churchillgeo.com/', 'status': 'active'},
   {'name': 'Carlos Arrojo', 'url': 'https://www.carlosarrojo.com/', 'status': 'active'},
