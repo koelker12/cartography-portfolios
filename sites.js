@@ -7,6 +7,7 @@ const sites = [
   {'name': 'Adrián Blanco Ramos', 'url': 'https://adrianblancoramos.com/#projects', 'status': 'active'},
   {'name': 'Alan McConchie', 'url': 'https://mappingmashups.net/#portfolio', 'status': 'active'},
   {'name': 'Alex Fries', 'url': 'https://acfries.github.io/', 'status': 'active'},
+  {'name': 'Alex Hordal', 'url': 'https://www.alexhordal.ca/portfolio', 'status': 'active'},
   {'name': 'Alex Hotchin', 'url': 'https://alexhotchin.com/', 'status': 'active'},
   {'name': 'Alex McPhee', 'url': 'https://pronghornmaps.com/', 'status': 'active'},
   {'name': 'Alicia Bradshaw', 'url': 'https://aabradshaw.github.io/#portfolio', 'status': 'active'},
