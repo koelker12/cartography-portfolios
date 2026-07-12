@@ -208,7 +208,7 @@ const sites = [
   {'name': 'Sara Drake', 'url': 'https://www.saradrake.com/', 'status': 'active'},
   {'name': 'Sarah Bell', 'url': 'https://www.sarahbellmaps.com/portfolio/', 'status': 'active'},
   {'name': 'Scott Schiller', 'url': 'https://mapsbyscott.com/', 'status': 'active'},
-  {'name': 'Seth Frame', 'url': 'https://sethframegisp.com/', 'status': 'active'},
+  {'name': 'Seth Frame', 'url': 'https://sethframegisp.com/#examples', 'status': 'active'},
   {'name': 'Shane Loeffler', 'url': 'https://shaneloeffler.com/', 'status': 'active'},
   {'name': 'Shuoyan Huang', 'url': 'https://shuoyanhuang.github.io/#projects', 'status': 'active'},
   {'name': 'Simon Polster', 'url': 'https://cartisan.org/portfolio/1/', 'status': 'active'},
