@@ -242,4 +242,5 @@ const sites = [
   {'name': 'Yuri Gordon', 'url': 'https://yurigordon.com/en/gallery/karty', 'status': 'active'},
   {'name': 'Zachary Ammerman', 'url': 'https://zammerman.myportfolio.com/work', 'status': 'active'},
   {'name': 'Zachary Bodenner', 'url': 'https://cargocollective.com/BodennerCartography/Cartographic-Portfolio', 'status': 'active'},
+  {'name': 'Zhaoxu Sui', 'url': 'https://zhaoxusui.com/gallery', 'status': 'active'},
 ];
