@@ -98,6 +98,7 @@ const sites = [
   {'name': 'Isaac Dushku', 'url': 'https://lordofmaps.com/', 'status': 'active'},
   {'name': 'J. Maizlish Mole', 'url': 'https://www.jmaizlish.com/', 'status': 'active'},
   {'name': 'Jake Coolidge', 'url': 'https://jakecoolidgecartography.com/#', 'status': 'active'},
+  {'name': 'Jake Steinberg', 'url': 'https://www.jakesteinberg.com/', 'status': 'active'},
   {'name': 'Jan Paul Miene', 'url': 'https://jpmiene.wordpress.com/projects/', 'status': 'active'},
   {'name': 'Jakob Listabarth', 'url': 'https://jakoblistabarth.com/', 'status': 'active'},
   {'name': 'James Cheshire', 'url': 'https://jcheshire.com/', 'status': 'active'},
