@@ -50,6 +50,7 @@ const sites = [
   {'name': 'Clara Bowe', 'url': 'https://clarakmbowe.com/crewel-and-kind/', 'status': 'active'},
   {'name': 'Coco Menk', 'url': 'https://cocomenk.net/gis', 'status': 'active'},
   {'name': 'Cooper Thomas', 'url': 'http://cooper-thomas.com/', 'status': 'active'},
+  {'name': 'Court Cox', 'url': 'https://www.mapcourt.com/', 'status': 'active'},
   {'name': 'Courtney Simonse', 'url': 'https://courtneysimonse.ninja/', 'status': 'active'},
   {'name': 'Craig Taylor', 'url': 'https://mapzilla.co.uk/', 'status': 'active'},
   {'name': 'Damien Saunder', 'url': 'https://www.damiensaunder.com/', 'status': 'active'},
