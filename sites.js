@@ -151,6 +151,7 @@ const sites = [
   {'name': 'Lauren C. Tierney', 'url': 'https://laurenctierney.com/', 'status': 'active'},
   {'name': 'Lee France', 'url': 'https://leefrance.me/', 'status': 'active'},
   {'name': 'Lewis Brownlie', 'url': 'https://lewisbrownlie.com/', 'status': 'active'},
+  {'name': 'Lily Houtman', 'url': 'https://lilyhoutman.github.io/', 'status': 'active'},
   {'name': 'Lionel Portier', 'url': 'https://lionelportier.com/portfolio/maps-2/', 'status': 'active'},
   {'name': 'Loïc Brisout', 'url': 'https://www.sketchthestreets.com/', 'status': 'active'},
   {'name': 'Maddy Grubb', 'url': 'https://maddygrubbmaps.com/Portfolio.html', 'status': 'active'},
