@@ -214,6 +214,7 @@ const sites = [
   {'name': 'Scott Schiller', 'url': 'https://mapsbyscott.com/', 'status': 'active'},
   {'name': 'Seth Frame', 'url': 'https://sethframegisp.com/#examples', 'status': 'active'},
   {'name': 'Shane Loeffler', 'url': 'https://shaneloeffler.com/', 'status': 'active'},
+  {'name': 'Shira A. Ellenson', 'url': 'https://tundraandtopo.com/', 'status': 'active'},
   {'name': 'Shuoyan Huang', 'url': 'https://shuoyanhuang.github.io/#projects', 'status': 'active'},
   {'name': 'Simon Polster', 'url': 'https://cartisan.org/portfolio/1/', 'status': 'active'},
   {'name': 'Sophie Parr', 'url': 'https://mapsbysophie.com/', 'status': 'active'},
