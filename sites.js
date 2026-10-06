@@ -156,6 +156,7 @@ const sites = [
   {'name': 'Loïc Brisout', 'url': 'https://www.sketchthestreets.com/', 'status': 'active'},
   {'name': 'Maddy Grubb', 'url': 'https://maddygrubbmaps.com/Portfolio.html', 'status': 'active'},
   {'name': 'Map Guy', 'url': 'https://themapguy.net/', 'status': 'active'},
+  {'name': 'Matt Forrest', 'url': 'https://forrest.nyc/bio/', 'status': 'active'},
   {'name': 'Marco Hernandez', 'url': 'https://mhinfographics.github.io/maps', 'status': 'active'},
   {'name': 'Margot Dale Carpenter', 'url': 'http://www.hartdalemaps.com/', 'status': 'active'},
   {'name': 'Marine Le Breton', 'url': 'https://lescartesmarines.fr/10-boutique', 'status': 'active'},
