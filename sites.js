@@ -11,6 +11,7 @@ const sites = [
   {'name': 'Alex Hotchin', 'url': 'https://alexhotchin.com/', 'status': 'active'},
   {'name': 'Alex McPhee', 'url': 'https://pronghornmaps.com/', 'status': 'active'},
   {'name': 'Alicia Bradshaw', 'url': 'https://aabradshaw.github.io/#portfolio', 'status': 'active'},
+  {'name': 'Aly Miller', 'url': 'https://www.aly-miller.com/illustrated-maps-by-aly-miller', 'status': 'active'},
   {'name': 'Aly Ollivierre', 'url': 'https://www.alyollivierre.com/', 'status': 'active'},
   {'name': 'Amparo Guindón', 'url': 'https://www.amparoguindon.com/', 'status': 'active'},
   {'name': 'Andrew Douglas-Clifford', 'url': 'https://www.andrewdc.co.nz/', 'status': 'active'},
